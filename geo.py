@@ -42,7 +42,7 @@ def get_coordinates(location):
 
 add_selectbox = st.sidebar.selectbox(
     "How would you like to be contacted?",
-    ("Find Location", "Find Distance", "Mark Boundaries", "Search Phone-Number")
+    ("Find Location", "Find Distance", "Mark Boundaries")
 )
 
 if add_selectbox == 'Find Location':
