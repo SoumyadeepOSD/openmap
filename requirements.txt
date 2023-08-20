@@ -10,6 +10,7 @@ colorama==0.4.6
 folium==0.14.0
 gitdb==4.0.10
 GitPython==3.1.32
+geopy
 idna==3.4
 importlib-metadata==6.8.0
 Jinja2==3.1.2
